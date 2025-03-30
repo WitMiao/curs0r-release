@@ -1,5 +1,6 @@
-# 最终版（停止更新）
-## 鉴于Cursor Pool关闭，现在切换为本地版，需要输入自己账户的Token
+# 03.30 20:30
+- 修复掉试用的问题（次数将为50）
+- 适配curs0r pool 推送本地客户端的功能
 
-- 移除Cursor Pool
-- 移除强制更新
+![output](https://github.com/user-attachments/assets/db35210b-5a4e-4fea-9b2c-c94d46a07df6)
+
